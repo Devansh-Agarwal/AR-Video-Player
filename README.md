@@ -7,3 +7,6 @@ Currently only works in editor mode as some functions used for playing video are
 
 Screenshots of the app are attached
 
+![](/videoScreenShot1.png)
+![](/videoScreenShot2.png)
+
